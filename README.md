@@ -6,7 +6,9 @@
 > A simple demo of Vue.js(version 1.x)
 
 > In addition, communication between father and child components:
+
 > father -> child : By defining props in child components;
+
 > child -> father : Publish-subscribe patterns.
 
 ![image](https://github.com/wuln/vue-demos/blob/master/imgs/todolist1.gif)
