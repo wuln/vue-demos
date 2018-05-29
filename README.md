@@ -5,6 +5,12 @@
 
 > A simple demo of Vue.js(version 1.x)
 
+> In addition, communication between father and child components:
+> father -> child : By defining props in child components;
+> child -> father : Publish-subscribe patterns.
+
+![image](https://github.com/wuln/vue-demos/blob/master/imgs/todolist1.gif)
+
 ## Build Setup
 
 ``` bash
@@ -26,6 +32,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # 2. todolist
 
 > A Vue.js project
+
+![image](https://github.com/wuln/vue-demos/blob/master/imgs/todolist2.gif)
 
 ## Build Setup
 
@@ -51,5 +59,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 >no npm related packages, just reference the CDN files
 
-
+![image](https://github.com/wuln/vue-demos/blob/master/imgs/cart.gif)
 
