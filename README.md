@@ -63,3 +63,25 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ![image](https://github.com/wuln/vue-demos/blob/master/imgs/cart.gif)
 
+# 4. vue-webpack-todo
+
+based on vue@2.5.13 and webpack@3.12.0
+
+You can view in browser by running the index.html
+
+![image](https://github.com/wuln/vue-demos/blob/master/imgs/vue-webpack-todo.gif)
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8000
+npm run dev
+
+# build for production with minification
+npm run build
+
+```
+
